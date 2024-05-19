@@ -1,0 +1,9 @@
+ride_id:string,
+point_idx:integer,
+latitude:float,
+longitude:float,
+timestamp:timestamp,
+meter_reading:float,
+meter_increment:float,
+ride_status:string,
+passenger_count:integer
